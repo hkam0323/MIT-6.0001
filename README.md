@@ -1,6 +1,6 @@
 # MIT-6.0001 (MIT OpenCourseWare Fall 2016 version)
 
-My solutions for problem sets.
+My solutions for problem sets.  Written in Python 3.6.0
 
 Project start date:  02/10/2017
 
