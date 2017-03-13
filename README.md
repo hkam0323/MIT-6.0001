@@ -1,2 +1,2 @@
-# MIT-6.0001
-Problem sets solutions for MIT 6.0001 Introduction to Computer Science and Programming in Python, Fall 2016
+# MIT-6.0001 (Fall 2016 version)
+My solutions for problem sets
